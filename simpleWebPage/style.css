@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+    font-size:20px;
+   font-style: italic;
+}
+
+p{
+    color:black;
+    text-align: center;
+}
+
+h1{text-align: center;}
+
+
+
+pspan {
+    text-transform: uppercase;
+    background-color: brown;
+}
+table,th,td {
+    border: 1px solid black;
+  }
